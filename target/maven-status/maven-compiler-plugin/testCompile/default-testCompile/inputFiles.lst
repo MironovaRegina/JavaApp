@@ -1,6 +1,9 @@
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\FirstTest.java
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\CoreTestCase.java
+C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\Platform.java
+C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\ui\AuthPageObject.java
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\ui\MainPageObject.java
+C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\ui\MWSearchPageObject.java
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\ui\OnboardingPageObject.java
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\lib\ui\SearchPageObject.java
 C:\Users\AllMir\Desktop\JavaApp\src\test\java\MainClass.java
